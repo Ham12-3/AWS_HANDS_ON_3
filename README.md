@@ -108,3 +108,8 @@
 ![aws-24](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/eee456c7-9056-4524-a311-06e5b4bef273)
 
 
+### Creation of Kinesis data stream shard
+
+![aws-25](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/19f242f7-8931-4675-aed4-b9e282143b03)
+
+
