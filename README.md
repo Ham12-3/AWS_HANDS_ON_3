@@ -84,3 +84,27 @@
 
 
 
+### Creating an AWS SNS topic named MyFirstTopic using Standard instead of FIFO
+
+![aws-20](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/1acd822d-c8b6-450d-9bb7-e2bd5f7a1206)
+
+### Email  from the subscription I recently created
+
+![aws-21](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/1de1b20f-d0db-462b-9c93-eb43d053fa5c)
+
+
+### Successfully confirmed subscription
+
+
+![aws-22](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/809555ea-211d-4ba6-a57e-1bb5edd8e96d)
+
+
+### Publishing a message using MyFirstTopic SNS topic after just creating a subscription
+
+![aws-23](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/9a36b163-a7b9-4a0a-971a-0306bff34844)
+
+### Successfully recieved into my message
+
+![aws-24](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/eee456c7-9056-4524-a311-06e5b4bef273)
+
+
