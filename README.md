@@ -54,3 +54,9 @@
 
 ![aws-13](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/a5bf54e5-f68c-493a-a99d-c7ce66737862)
 
+### Then we can now poll messages we got from the S3
+
+![aws-14](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/f01c0746-3850-46e2-8e1a-a4e7b4c4a0f5)
+
+
+
