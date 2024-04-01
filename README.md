@@ -132,4 +132,7 @@
 
 ![aws-30](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/7e46fc0f-bd21-41f5-bf91-b4a602fe6e60)
 
+### Cloud tail running on the log group stream
+
+![aws-1](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/e979be5b-1a19-4d81-b8b0-6ed782131588)
 
