@@ -128,5 +128,8 @@
 ![aws-29](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/8d1de02d-ad34-4f44-9127-d09b2fbd2d77)
 
 
+### Our metric filter is finally created
+
+![aws-30](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/7e46fc0f-bd21-41f5-bf91-b4a602fe6e60)
 
 
