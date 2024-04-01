@@ -112,4 +112,21 @@
 
 ![aws-25](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/19f242f7-8931-4675-aed4-b9e282143b03)
 
+### Exisiting Cloudwatch log groups 
+
+![aws-26](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/1a91f067-61f8-4cdf-a406-184383b13982)
+
+![aws-27](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/06d81313-8d74-46d9-9776-c49357e7a44a)
+
+
+### Creation of a metric filter
+
+![aws-28](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/9e60e737-bc15-459d-8374-d65b5fcd1f94)
+
+### Assigning of Metric Filter
+
+![aws-29](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/8d1de02d-ad34-4f44-9127-d09b2fbd2d77)
+
+
+
 
