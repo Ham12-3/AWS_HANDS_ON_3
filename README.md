@@ -136,3 +136,22 @@
 
 ![aws-1](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/e979be5b-1a19-4d81-b8b0-6ed782131588)
 
+
+### Creation of an EC2 instance to use a cloudwatch alarm
+
+![aws-2](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/3085cb0f-c1e8-423b-8271-da831e25fdc4)
+
+### Selecting of metric for the cloudwatch alarms
+
+![aws-3](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/b5d8a17d-e045-4024-99b4-4bbb9562d88d)
+
+
+### The EC2 action for alarm in case it gets triggered
+
+![aws-4](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/7367ca89-b91e-4d5a-aea4-8cdd5b09d251)
+
+### The cloudwatch alarm has been finally created
+
+![aws-5](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/e624973c-2782-4aae-a827-a5bf0bec05e4)
+
+
