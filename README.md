@@ -154,4 +154,49 @@
 
 ![aws-5](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/e624973c-2782-4aae-a827-a5bf0bec05e4)
 
+### Creation of an event bus from amazon eventbridge
+
+![aws-6](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/a41a967c-952a-4bfd-8883-670b3c1cb7b0)
+
+### Creation of eventbridge source to connect with partners such as salesforce, adobe, datadog and so on
+
+![aws-7](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/efdf034e-dcf5-4c29-bcd4-c0992c403f17)
+
+
+### Creation of a rule for the aws eventbridge
+
+![aws-8](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/200f58e6-cb1e-4aab-9f4b-dab093a12ab8)
+
+### Event rules pattern for the EC2 Instance State Change Notification
+
+![aws-9](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/9e6ddfeb-bb27-4beb-ae48-525fcddeb974)
+
+```JSON
+{
+  "version": "0",
+  "id": "7bf73129-1428-4cd3-a780-95db273d1602",
+  "detail-type": "EC2 Instance State-change Notification",
+  "source": "aws.ec2",
+  "account": "123456789012",
+  "time": "2015-11-11T21:29:54Z",
+  "region": "us-east-1",
+  "resources": ["arn:aws:ec2:us-east-1:123456789012:instance/i-abcd1111"],
+  "detail": {
+    "instance-id": "i-abcd1111",
+    "state": "stopped"
+  }
+}
+
+```
+
+### Finally the event rule has been created
+
+![aws-10](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/aceed15f-a3d4-4434-9fed-6707177dae9a)
+
+
+
+
+
+
+
 
