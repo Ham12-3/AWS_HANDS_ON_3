@@ -227,6 +227,9 @@ The insights and analytics
 ![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/c39276ac-5b11-4f50-af76-369eedbfa82b)
 
 
+#### Deletiing of stacks to prevent it from running all the time
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/aad34b3c-69eb-4957-a85d-1177381f1122)
 
 
 
