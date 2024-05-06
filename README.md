@@ -194,6 +194,42 @@
 ![aws-10](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/aceed15f-a3d4-4434-9fed-6707177dae9a)
 
 
+### When it comes to debugging especially on the production, it is kind of tedious, that is where the X-ray comes into place
+
+With X-ray,
+- You can understand troubleshooting performance
+- Understand the microservices architecture
+- Find errors and exceptions
+- Know which users are imapacted by our error
+- X-ray is compatible with EC2, lambda and several other AWS services.
+
+#### Creation of a cloudformation stack to use with the X-ray
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/f6594bf6-b77d-47bb-963f-a2c31796db83)
+
+#### Selecting of subnets and VPCs
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/ec359494-8601-4988-923c-32becec873c6)
+
+#### The result of the cloudformation stack being created
+
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/371b6ff6-1854-4d79-9a0d-242b1b0885c4)
+
+
+
+### While playing the game, X-ray generated the service map, here is the map
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/0ec390e9-5214-4607-92de-20a8e00d7ee9)
+
+The insights and analytics
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/c39276ac-5b11-4f50-af76-369eedbfa82b)
+
+
+
+
+
 
 
 
