@@ -235,7 +235,12 @@ The insights and analytics
 
 
 
+#### A defualt sampling rule has been created for us by the X-ray
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/ac679da9-4d65-4701-882f-b3fbba9c2d9d)
 
 
+#### Total event history of all API calls I made from cloutrail
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/7c1ff4b7-24ff-4d94-b224-feaa37f925d3)
 
 
