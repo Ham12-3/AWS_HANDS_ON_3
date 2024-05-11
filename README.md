@@ -244,3 +244,24 @@ The insights and analytics
 ![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/7c1ff4b7-24ff-4d94-b224-feaa37f925d3)
 
 
+#### Creation of a new lambda function using the python 3.10
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/76efc1e1-0e26-4a7f-81d5-a13c636fd4fc)
+#### Creation of a test for the lambda function just created
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/ba982b70-fe19-4deb-8725-9942e81ee1e0)
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/6dac9f48-cb85-4580-9ee3-9e858440f267)
+
+
+#### Making use of the aws lambda list functions to list the functions we have from the cloudshell
+
+
+```bash
+aws lambda list-functions
+
+
+```
+
+![image](https://github.com/Ham12-3/AWS_HANDS_ON_3/assets/93613316/aacd585f-2af9-4352-90a5-12768523bc0f)
+
